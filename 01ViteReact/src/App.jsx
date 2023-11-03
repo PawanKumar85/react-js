@@ -1,7 +1,11 @@
+import Chai from "./chai.jsx"
 function App() {
  
   return (
-    <h1>Chai aur React || Pawan Kumar (PK)</h1>
+    <>
+    <h1>This is Vite.jsx(React) Framwork of Javascript </h1>
+    <Chai/>
+    </>
   )
 }
 
